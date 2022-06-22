@@ -1,0 +1,3 @@
+add_expense()
+remove_expense()
+update show_budget() to sum categories and percentage
